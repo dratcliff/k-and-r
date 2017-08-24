@@ -1,24 +1,18 @@
 #include <stdio.h>
 
-#define IN 1
-#define OUT 0
-
 // print histogram of character frequencies
 
 int main() {
     
-    int c, state;
+    int c;
 
     int frequencies[128] = { 0 };
-
-    state = OUT;
 
     while ((c = getchar()) != EOF) {
         if (c < 128) {
             frequencies[c]++;
         }
     }
-    
 
     int max_occurrences = 0;
     for (int i = 0; i < 128; i++) {
