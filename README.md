@@ -1,5 +1,7 @@
 This repo is public evidence of my attempt to complete all the programming exercises in the second edition of The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie (k-and-r).
 
+Starting with exercise 1-13, my mains return int because I got sick of the implicit integer default compiler warning. Sorry, purists.
+
 Here's some README-worthy output from the histogram for word length from exercise 1-13:
 
 $ cat ulysses.txt | ./a.out 
