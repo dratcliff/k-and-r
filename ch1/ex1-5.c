@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// celsius to fahrenheit table, descending
+
 main() {
     float fahr, celsius;
     int lower, upper, step;

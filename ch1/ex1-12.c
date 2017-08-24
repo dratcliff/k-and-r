@@ -3,6 +3,8 @@
 #define IN  1
 #define OUT 0
 
+// print one word per line
+
 main() {
     int c;
     int state = OUT;

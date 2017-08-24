@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// replace tabs, backspaces, and backslashes with escaped versions
+
 main() {
     int c;
     while ((c = getchar()) != EOF) {

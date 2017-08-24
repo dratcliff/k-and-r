@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// count newlines, tabs and spaces
+
 main() {
     int c, count;
 
