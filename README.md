@@ -4,6 +4,7 @@ Here's some README-worthy output from the histogram for word length from exercis
 
 $ cat ulysses.txt | ./a.out 
 
+------------------------------------------------------------------------
 length | occurrences |
      1 |       15926 | ----------------
      2 |       38539 | ---------------------------------------
