@@ -3,6 +3,7 @@ This repo is public evidence of my attempt to complete all the programming exerc
 Here's some README-worthy output from the histogram for word length from exercise 1-13:
 
 $ cat ulysses.txt | ./a.out 
+
 length | occurrences |
 --------------------------------------------------------------------------------
      1 |       15926 | ----------------
