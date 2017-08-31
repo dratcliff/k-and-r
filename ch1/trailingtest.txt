@@ -1,0 +1,6 @@
+trailing spaces after this line          
+trailing tabs after this one                        
+
+
+two empty lines above this one and an empty one below and some trailing spaces and tabs after it                        
+
