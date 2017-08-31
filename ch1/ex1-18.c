@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAXLENGTH 1000
 
-// print all lines longer than 80 characters
+// remove trailing blanks and tabs from input, delete blank lines
 
 int getLine(char line[], int max);
 int trim(char line[], int len);
